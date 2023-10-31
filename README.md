@@ -1,8 +1,10 @@
-# n2 - desenvolvimento agil
-
 # Nomes
 - Lara Fernanda Gastaldi
 - Victor Hugo Baggio Alves
+
+# Questão 3: Cálculo da Raiz Digital
+
+Você deve implementar uma função chamada digital_root(n) que calcula a raiz digital de um número não negativo. A raiz digital é a soma recursiva de todos os dígitos de um número até que reste apenas um dígito.
 
 Através da metodologia TDD e do pair programming, criamos as atividades propostas da N2 da matéria de desenvolvimento ágil.
 
