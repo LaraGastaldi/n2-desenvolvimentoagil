@@ -2,10 +2,19 @@
 - Lara Fernanda Gastaldi
 - Victor Hugo Baggio Alves
 
-# Questão 3: Cálculo da Raiz Digital
+# Questão 4: Criptografia de Palavras
 
-Você deve implementar uma função chamada digital_root(n) que calcula a raiz digital de um número não negativo. A raiz digital é a soma recursiva de todos os dígitos de um número até que reste apenas um dígito.
+Você deve implementar uma função chamada encryptThis(message) que criptografa uma mensagem de texto seguindo as regras especificadas abaixo:
 
+A mensagem é uma string contendo palavras separadas por espaços.
+
+Cada palavra na mensagem deve ser criptografada da seguinte maneira:
+
+O primeiro caractere da palavra deve ser convertido para o seu código ASCII.
+
+O segundo caractere da palavra deve ser trocado com o último caractere.
+
+A função deve retornar a mensagem criptografada, mantendo a mesma estrutura de palavras separadas por espaços.
 Através da metodologia TDD e do pair programming, criamos as atividades propostas da N2 da matéria de desenvolvimento ágil.
 
 Para executar o código basta entrar nesse link
